@@ -1,0 +1,8 @@
+# mengabaikan folder environment
+env/
+__pycache__/
+
+# mengabaikan file dataset berukuran besar
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
